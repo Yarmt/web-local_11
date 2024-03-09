@@ -1,0 +1,28 @@
+.table {
+    border-collapse: collapse;
+}
+
+.table td, .table th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.tableDiv {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.selected {
+    font-weight: bold;
+}
+.header {
+    background-color: rgb(92, 187, 219); 
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(73, 218, 73); 
+    text-align: center;
+}
